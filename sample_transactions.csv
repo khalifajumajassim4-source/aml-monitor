@@ -1,0 +1,17 @@
+account_id,amount,currency,direction,channel,is_cash,is_international,counterparty_id,counterparty_country,balance_after
+1001,9800,USD,in,branch,true,false,CASHDEP01,US,9800
+1001,9700,USD,in,branch,true,false,CASHDEP02,US,19500
+1001,9200,USD,in,branch,true,false,CASHDEP03,US,28700
+1002,12500,USD,in,wire,false,false,ACMEPAY,US,12500
+1002,6200,USD,out,wire,false,false,RECIP001,US,6300
+1002,3900,USD,out,wire,false,false,RECIP002,US,2400
+1003,28000,USD,in,wire,false,false,CLIENTA,US,28000
+1003,4200,USD,out,wire,false,false,PAYEE001,US,23800
+1003,4100,USD,out,wire,false,false,PAYEE002,US,19700
+1003,4300,USD,out,wire,false,false,PAYEE003,US,15400
+1003,4400,USD,out,wire,false,false,PAYEE004,US,11000
+1003,4500,USD,out,wire,false,false,PAYEE005,US,6500
+1004,7600,USD,out,wire,false,true,FOREIGN001,RU,12400
+1004,8400,USD,out,wire,false,true,FOREIGN002,RU,4000
+1005,6000,USD,out,online,false,false,NIGHT001,US,14000
+1005,7000,USD,out,online,false,false,NIGHT002,US,7000
